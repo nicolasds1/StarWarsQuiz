@@ -1,0 +1,13 @@
+body {
+    background-image: url("wallpaper.jpg");
+    color: white;
+    text-align: center;
+}
+
+.quizHeading {
+    color: red;
+    background-color: transparent;
+    text-align: center;
+    padding: 8px;
+    margin: 25px;
+}

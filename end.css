@@ -1,0 +1,13 @@
+div {
+    text-align: center;
+    color: white;
+}
+
+#gif {
+    height: 500px;
+    padding: 40px;
+}
+
+body {
+    background-color: black;
+}
